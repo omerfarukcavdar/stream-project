@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project based on Modern React with Redux course from Stephen Grider.
+
+In this project,i try to create a Twitch clone with React.
+
+For make CRUD operations, you can clone and run this project: https://github.com/omerfarukcavdar/stream-api
+
 ## Available Scripts
 
 In the project directory, you can run:
