@@ -6,6 +6,10 @@ In this project,i try to create a Twitch clone with React.
 
 For make CRUD operations, you can clone and run this project: https://github.com/omerfarukcavdar/stream-api
 
+For stream video, you can clone and run this project: https://github.com/omerfarukcavdar/rtmp-server
+
+Also you need OBS software for live streaming: https://obsproject.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
